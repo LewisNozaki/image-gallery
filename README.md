@@ -1,0 +1,1 @@
+This is an image gallery project to learn how to use CSS Grid and Flexbox.
